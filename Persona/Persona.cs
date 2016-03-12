@@ -10,7 +10,7 @@ namespace Persona
             personas = new Persona[8];
             string temp;
             
-            for(int i = 0; i < 8; i++)
+            for(int i = 0; i < 3; i++)
             {
                 personas[i] = new Persona();
                 Console.WriteLine("Escriba el nombre de la persona:");
